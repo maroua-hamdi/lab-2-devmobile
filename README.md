@@ -18,7 +18,12 @@ LAB 2 – Calculateur d’impôts locaux : Saisie, traitement et affichage
 
 
 
-   <img width="116" height="232" alt="image" src="https://github.com/user-attachments/assets/4b9dac24-9681-4011-b9b8-90c9b1f69eda" />
+
+
+
+
+  ![WhatsApp Image 2026-03-03 at 22 26 53](https://github.com/user-attachments/assets/50f6b9e0-305c-4752-b7b2-afc4e5b37825)
+
 
 
 
